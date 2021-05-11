@@ -1,6 +1,7 @@
 # quadratic_sieve
 Quadratic Sieve Implementation
 
+This repository contains our implementation of the Quadratic Sieve Algorithm using Python. 
 Please use the notebook named "Quadratic Sieve Jupyter", which is the final notebook.
 Our implementation assuming n is the product of exactly two primes; i.e. n = pq.
 The current code generates B-smooth numbers for 13-16 digits within good time (minutes, max)
